@@ -1,0 +1,9 @@
+let pizzaJson = [
+    {id:1, name:'Mussarela', img:'images/pizza.png', price:20.19, sizes:['100g', '530g', '860g'], description:'A pizza de mussarela é uma deliciosa especialidade italiana, conhecida por sua simplicidade e sabor irresistível. '},
+    {id:2, name:'Calabresa', img:'images/pizza2.png', price:18.00, sizes:['320g', '530g', '860g'], description:'A pizza de calabresa é uma explosão de sabor com sua massa crocante coberta por fatias de calabresa picante e queijo derretido.'},
+    {id:3, name:'Quatro Queijos', img:'images/pizza3.png', price:17.45, sizes:['320g', '530g', '860g'], description:'A pizza de quatro queijos é uma festa de sabores com sua massa perfeitamente assada, coberta por uma combinação irresistível de queijos derretidos.'},
+    {id:4, name:'Americana', img:'images/pizza4.png', price:19.77, sizes:['320g', '530g', '860g'], description:'A pizza de Americana é uma explosão de sabores com sua massa crocante, molho de tomate, pepperoni picante, queijo mussarela derretido e um toque de pimenta.'},
+    {id:5, name:'Lombo', img:'images/pizza5.png', price:21.43, sizes:['320g', '530g', '860g'], description:'A pizza de lombo é uma combinação deliciosa de massa crocante, molho de tomate, fatias suculentas de lombo defumado, queijo derretido e um toque de temperos especiais.'},
+    {id:6, name:'Moda da Casa', img:'images/pizza6.png', price:18.55, sizes:['320g', '530g', '860g'], description:'A pizza À Moda da Casa é uma criação exclusiva que combina diversos ingredientes selecionados, como presunto, calabresa, champignon, cebola, azeitonas e queijo derretido, resultando em uma explosão de sabores única e irresistível.'},
+    {id:7, name:'Chocolate', img:'images/pizza7.png', price:22.36, sizes:['320g', '530g', '860g'], description:'A pizza de chocolate é uma sobremesa indulgente que combina uma base de massa crocante com generosas camadas de chocolate derretido.'}
+]
